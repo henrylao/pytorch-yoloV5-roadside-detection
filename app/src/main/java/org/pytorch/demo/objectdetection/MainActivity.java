@@ -181,8 +181,8 @@ public class MainActivity extends AppCompatActivity implements Runnable {
         });
 
         try {
-            mModule = LiteModuleLoader.load(MainActivity.assetFilePath(getApplicationContext(), "yolov5s.ptl"));
-            BufferedReader br = new BufferedReader(new InputStreamReader(getAssets().open("classes.txt")));
+            mModule = LiteModuleLoader.load(MainActivity.assetFilePath(getApplicationContext(), "pretrained-yolov5s.ptl"));
+            BufferedReader br = new BufferedReader(new InputStreamReader(getAssets().open("pretrained-yolov5s-classes.txt")));
             String line;
             List<String> classes = new ArrayList<>();
             while ((line = br.readLine()) != null) {

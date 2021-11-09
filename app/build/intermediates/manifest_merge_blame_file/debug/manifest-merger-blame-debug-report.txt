@@ -9,7 +9,7 @@
 8-->C:\Users\hlao1\Github\AndroidStudioProjects\android-demo-app\ObjectDetection\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
 9-->C:\Users\hlao1\Github\AndroidStudioProjects\android-demo-app\ObjectDetection\app\src\main\AndroidManifest.xml
-10
+10    <!-- AndroidManifest.xml -->
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 11-->C:\Users\hlao1\Github\AndroidStudioProjects\android-demo-app\ObjectDetection\app\src\main\AndroidManifest.xml:5:5-80
 11-->C:\Users\hlao1\Github\AndroidStudioProjects\android-demo-app\ObjectDetection\app\src\main\AndroidManifest.xml:5:22-77
