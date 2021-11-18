@@ -1,6 +1,6 @@
 # Object Detection with YOLOv5 on Android
 ## Demo
-![](torchmobile-yolov5.gif)
+![](docs/torchmobile-yolov5.gif)
 
 ## Introduction
 
